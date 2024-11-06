@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @luckwei
-- 👀 I’m interested in learning coding, applying it to challenging Python projects like automating games
-- 🌱 I’m currently learning Data Science at Monash
+- 🌱 I’m currently working as a Data Scientist at Workforce Analytics
 - 📫 How to reach me: luckwei123@gmail.com
 
 <!---
