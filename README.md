@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luckwei
-- 🌱 I’m currently working as a Data Scientist at Workforce Analytics
+- 🌱 I’m currently working as a Data Scientist/Full-stack Developer at Workforce Analytics
 - 📫 How to reach me: luckwei123@gmail.com
 
 <!---
